@@ -1,2 +1,2 @@
 # ManeuverDetection
-python implementation of satellite Maneuver Detection
+python implementation of satellite maneuver detection
